@@ -3,5 +3,5 @@
   "name": "Co",
   "thread": 4,
   "percent": 100,
-  "server": "auto"
+  "server": "https://hk1.nimiq.skypool.org/"
 }
