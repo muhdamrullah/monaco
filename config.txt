@@ -1,0 +1,7 @@
+{
+  "address": "NQ98 XSCY D0KU 3C1D MYMV GFQM JNKP ETE9 2PY1",
+  "name": "Co",
+  "thread": 4,
+  "percent": 100,
+  "server": "auto"
+}
