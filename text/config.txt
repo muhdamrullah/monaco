@@ -1,7 +1,7 @@
 {
   "address": "NQ25 7NKG 10XH YB41 1UCF F1RY 1FD9 EBT6 HAHG",
   "name": "Co",
-  "thread": 2,
+  "thread": 4,
   "percent": 100,
   "server": "https://hk1.nimiq.skypool.org/"
 }
