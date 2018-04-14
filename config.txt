@@ -3,5 +3,5 @@
   "name": "Co",
   "thread": 4,
   "percent": 100,
-  "server": "https://us1.nimiq.skypool.org/"
+  "server": "auto"
 }
