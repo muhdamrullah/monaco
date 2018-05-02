@@ -1,7 +1,7 @@
 const config = 
 {
   address: "NQ52 30HY 13CD HL4P GUQV GM8P TCYB 426B CMYK",
-  deviceId: 3,
+  deviceId: 6,
   threads: 16,
   host: "hk1-nimiq.skypool.xyz",
   port: 8444,
