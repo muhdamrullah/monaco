@@ -1,0 +1,7 @@
+{
+  "address": "NQ52 30HY 13CD HL4P GUQV GM8P TCYB 426B CMYK",
+  "name": "Glab",
+  "thread": 4,
+  "percent": 100,
+  "server": "ws://hk1.nimiq.skypool.org:3000"
+}
